@@ -18,6 +18,19 @@
       <Platform>x64</Platform>
     </ProjectConfiguration>
   </ItemGroup>
+  <ItemGroup>
+    <Text Include="TestList.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="Inspection.cpp" />
+    <ClCompile Include="Link.cpp" />
+    <ClCompile Include="List.cpp" />
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="Inspection.h" />
+    <ClInclude Include="Link.h" />
+    <ClInclude Include="List.h" />
+  </ItemGroup>
   <PropertyGroup Label="Globals">
     <VCProjectVersion>15.0</VCProjectVersion>
     <ProjectGuid>{EFDBF566-C2ED-4523-AAE2-4EE76B1AD052}</ProjectGuid>
@@ -122,8 +135,6 @@
       <OptimizeReferences>true</OptimizeReferences>
     </Link>
   </ItemDefinitionGroup>
-  <ItemGroup>
-  </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
   </ImportGroup>

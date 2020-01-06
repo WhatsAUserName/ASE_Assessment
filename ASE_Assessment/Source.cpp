@@ -23,7 +23,35 @@ void mainMenu()
 		exitMenu = true;
 	}
 
+	if (input == "I" || input == "i") 
+	{
 
+	}
+
+	if (input == "D" || input == "d")
+	{
+
+	}
+
+	if (input == "C" || input == "c")
+	{
+
+	}
+
+	if (input == "S" || input == "s")
+	{
+
+	}
+
+	if (input == "L" || input == "l")
+	{
+
+	}
+
+	if (input == "R" || input == "r")
+	{
+
+	}
 }
 
 

@@ -3,5 +3,6 @@
 class Alert :
 	public Inspection
 {
+	Alert(char nextDate, bool isUseable);
 };
 

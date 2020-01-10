@@ -6,6 +6,7 @@ using namespace std;
 bool exitMenu = false;
 
 string input;
+string test;
 
 void mainMenu() 
 {

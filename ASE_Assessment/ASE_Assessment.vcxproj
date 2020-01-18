@@ -25,6 +25,7 @@
     <ClCompile Include="Alert.cpp" />
     <ClCompile Include="Condition.cpp" />
     <ClCompile Include="Inspection.cpp" />
+    <ClCompile Include="InspectionDataManager.cpp" />
     <ClCompile Include="Link.cpp" />
     <ClCompile Include="List.cpp" />
     <ClCompile Include="Source.cpp" />
@@ -33,6 +34,7 @@
     <ClInclude Include="Alert.h" />
     <ClInclude Include="Condition.h" />
     <ClInclude Include="Inspection.h" />
+    <ClInclude Include="InspectionDataManager.h" />
     <ClInclude Include="Link.h" />
     <ClInclude Include="List.h" />
   </ItemGroup>

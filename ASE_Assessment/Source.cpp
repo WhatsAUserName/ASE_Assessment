@@ -1,6 +1,10 @@
 #include <iostream>
 #include <fstream>
 #include <string>
+#include "Condition.h"
+#include "Alert.h"
+#include "Link.h"
+#include "List.h"
 
 using namespace std;
 
@@ -21,6 +25,7 @@ bool useable;
 char filename[80] = "TestList.txt";
 char textLine[128];
 
+Condition c;
 
 int loadFile()
 {

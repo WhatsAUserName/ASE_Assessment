@@ -4,6 +4,7 @@
 class Inspection
 {
 public:
-	virtual void setup();
+	virtual ~Inspection() {};
+	virtual void setup() = 0;
 };
 

@@ -1,0 +1,1001 @@
+145  4  Useable
+145 02 Jul 2019 4  Useable
+89 30 Jun 2019 4  Useable
+194 09 Jun 2019 3  Useable
+139 07 Oct 2019 4  Useable
+138 02 Apr 2019 4  Useable
+160 11 Mar 2019 3  Useable
+135 18 Oct 2019 2  Useable
+161 05 Dec 2019 1 11 Dec 2019 Un-useable
+66 28 Feb 2019 1 19 Apr 2019 Un-useable
+129 11 Mar 2019 1 12 Apr 2019 Un-useable
+119 09 Jan 2019 1 29 Jan 2019 Un-useable
+32 03 Aug 2019 1  Useable
+5 29 Nov 2019 1  Useable
+119 22 Oct 2019 2  Useable
+171 06 Dec 2019 3  Useable
+14 07 Oct 2019 5 15 Oct 2019 Un-useable
+56 18 Jan 2019 5 08 Feb 2019 Un-useable
+136 23 Feb 2019 5  Useable
+34 01 Apr 2019 5 14 Apr 2019 Un-useable
+55 23 Dec 2019 5  Useable
+45 27 Oct 2019 1 14 Nov 2019 Un-useable
+47 28 Jan 2019 1  Useable
+63 13 Aug 2019 1  Useable
+102 16 Mar 2019 4  Useable
+111 03 Jul 2019 4  Useable
+96 27 Apr 2019 2  Useable
+18 27 Apr 2019 1  Useable
+75 28 Aug 2019 1  Useable
+173 26 Oct 2019 4 25 Nov 2019 Un-useable
+140 01 Feb 2019 4  Useable
+24 22 Jun 2019 2 26 Jun 2019 Un-useable
+82 14 Sep 2019 2  Useable
+159 24 Jan 2019 1  Useable
+195 15 May 2019 3  Useable
+185 29 Jul 2019 3  Useable
+145 13 Jul 2019 5  Useable
+114 08 Nov 2019 4 21 Dec 2019 Un-useable
+93 16 Apr 2019 4  Useable
+163 03 Oct 2019 1  Useable
+114 06 Oct 2019 4 05 Nov 2019 Un-useable
+34 15 Jan 2019 4  Useable
+144 18 Nov 2019 3  Useable
+40 09 May 2019 1  Useable
+147 24 Jul 2019 4  Useable
+116 10 Apr 2019 4 28 Apr 2019 Un-useable
+172 08 Dec 2019 4  Useable
+148 30 Oct 2019 4  Useable
+74 07 Sep 2019 2  Useable
+82 03 Feb 2019 3  Useable
+125 25 Feb 2019 4 26 Feb 2019 Un-useable
+17 21 Jun 2019 4  Useable
+107 13 Feb 2019 1  Useable
+167 13 Jun 2019 4  Useable
+44 29 May 2019 2 01 Jul 2019 Un-useable
+176 03 Jul 2019 2  Useable
+94 07 Aug 2019 1 14 Sep 2019 Un-useable
+170 13 Apr 2019 1  Useable
+189 04 Mar 2019 5 20 Mar 2019 Un-useable
+17 18 Aug 2019 5 24 Sep 2019 Un-useable
+150 15 Jul 2019 5 12 Sep 2019 Un-useable
+163 11 Dec 2019 5  Useable
+98 07 Mar 2019 1 17 Mar 2019 Un-useable
+112 27 Apr 2019 1  Useable
+63 20 Jul 2019 5 13 Sep 2019 Un-useable
+51 23 Oct 2019 5 12 Nov 2019 Un-useable
+118 02 Jul 2019 5 26 Jul 2019 Un-useable
+162 28 Nov 2019 5  Useable
+165 21 Jan 2019 1 11 Mar 2019 Un-useable
+149 30 Apr 2019 1  Useable
+173 27 Jan 2019 1  Useable
+177 27 Oct 2019 5  Useable
+106 28 Sep 2019 2 05 Nov 2019 Un-useable
+191 26 Dec 2019 2  Useable
+32 06 Jan 2019 2 03 Mar 2019 Un-useable
+125 05 Dec 2019 2 25 Dec 2019 Un-useable
+9 16 Aug 2019 2 02 Sep 2019 Un-useable
+195 29 Oct 2019 2  Useable
+102 15 Nov 2019 3  Useable
+81 18 May 2019 4  Useable
+147 13 Dec 2019 4  Useable
+100 31 Mar 2019 4  Useable
+25 03 Mar 2019 3 01 Apr 2019 Un-useable
+177 27 Jul 2019 3  Useable
+163 20 May 2019 5  Useable
+11 13 Apr 2019 2  Useable
+45 05 Sep 2019 3  Useable
+49 09 Nov 2019 4  Useable
+56 27 Dec 2019 3 11 Feb 2020 Un-useable
+166 23 Jun 2019 3 09 Jul 2019 Un-useable
+43 29 Apr 2019 3 18 Jun 2019 Un-useable
+3 31 Jan 2019 3  Useable
+109 25 Apr 2019 5  Useable
+148 19 Sep 2019 4  Useable
+160 30 Apr 2019 2  Useable
+165 30 Sep 2019 2 02 Oct 2019 Un-useable
+13 07 Apr 2019 2  Useable
+37 15 Aug 2019 4 21 Sep 2019 Un-useable
+52 11 Feb 2019 4 19 Mar 2019 Un-useable
+136 26 Apr 2019 4  Useable
+160 17 Mar 2019 3  Useable
+193 05 Dec 2019 4 15 Jan 2020 Un-useable
+94 19 Jan 2019 4 09 Mar 2019 Un-useable
+93 19 Oct 2019 4  Useable
+89 15 Jun 2019 1 03 Jul 2019 Un-useable
+30 12 Nov 2019 1 20 Nov 2019 Un-useable
+53 23 Jun 2019 1  Useable
+166 29 Sep 2019 2  Useable
+42 06 Sep 2019 5  Useable
+196 02 Jul 2019 3  Useable
+111 14 May 2019 2  Useable
+166 15 Jan 2019 5  Useable
+80 14 Apr 2019 1  Useable
+103 19 Jan 2019 5 19 Mar 2019 Un-useable
+70 28 Jul 2019 5 26 Sep 2019 Un-useable
+85 28 Sep 2019 5  Useable
+127 07 Mar 2019 4 03 Apr 2019 Un-useable
+80 23 Jul 2019 4  Useable
+150 10 May 2019 2  Useable
+91 02 Jul 2019 5  Useable
+60 05 Sep 2019 3  Useable
+194 04 Jan 2019 1 27 Feb 2019 Un-useable
+101 13 Feb 2019 1 10 Mar 2019 Un-useable
+191 23 Nov 2019 1  Useable
+189 11 Nov 2019 3  Useable
+105 25 Aug 2019 1  Useable
+94 29 Jul 2019 1  Useable
+156 18 Mar 2019 5  Useable
+37 14 Dec 2019 2  Useable
+116 30 Jan 2019 1  Useable
+88 02 Sep 2019 5  Useable
+148 23 Jun 2019 3 01 Jul 2019 Un-useable
+74 17 May 2019 3 29 May 2019 Un-useable
+130 20 Sep 2019 3  Useable
+127 19 Jan 2019 2  Useable
+36 17 Jul 2019 1  Useable
+182 09 May 2019 4  Useable
+181 24 Jul 2019 4  Useable
+9 28 Jan 2019 4  Useable
+70 22 Feb 2019 5  Useable
+157 25 Apr 2019 5 30 May 2019 Un-useable
+109 11 Oct 2019 5 01 Dec 2019 Un-useable
+81 01 Oct 2019 5 19 Oct 2019 Un-useable
+66 25 Dec 2019 5  Useable
+71 26 Jul 2019 5  Useable
+196 06 Feb 2019 4  Useable
+131 30 Oct 2019 5  Useable
+135 01 Apr 2019 4 30 May 2019 Un-useable
+179 19 Oct 2019 4 03 Nov 2019 Un-useable
+16 09 Jul 2019 4  Useable
+100 24 Jan 2019 5  Useable
+132 15 Sep 2019 2  Useable
+16 01 Aug 2019 3  Useable
+146 17 Dec 2019 5  Useable
+177 02 Apr 2019 3  Useable
+180 05 Jun 2019 4 29 Jul 2019 Un-useable
+143 09 Nov 2019 4  Useable
+101 12 Jul 2019 1  Useable
+40 28 Mar 2019 5  Useable
+138 15 Mar 2019 1  Useable
+64 19 Oct 2019 2  Useable
+1 19 May 2019 1 07 Jun 2019 Un-useable
+147 19 Jul 2019 1  Useable
+160 19 Jun 2019 2 15 Jul 2019 Un-useable
+170 17 Mar 2019 2 05 Apr 2019 Un-useable
+43 16 Jan 2019 2  Useable
+93 19 Dec 2019 5  Useable
+180 16 Nov 2019 2  Useable
+52 28 Jun 2019 3  Useable
+162 03 Mar 2019 4 16 Mar 2019 Un-useable
+85 23 Feb 2019 4 17 Mar 2019 Un-useable
+175 09 Dec 2019 4  Useable
+131 22 Jun 2019 5 28 Jul 2019 Un-useable
+27 16 Sep 2019 5  Useable
+188 18 Jan 2019 4  Useable
+199 18 Jul 2019 5 28 Jul 2019 Un-useable
+55 05 Oct 2019 5 03 Dec 2019 Un-useable
+27 31 Mar 2019 5  Useable
+34 15 Sep 2019 4 02 Oct 2019 Un-useable
+139 13 Oct 2019 4  Useable
+31 04 Jul 2019 3  Useable
+85 19 Sep 2019 2  Useable
+153 01 Dec 2019 2 02 Dec 2019 Un-useable
+24 24 May 2019 2 24 Jun 2019 Un-useable
+168 01 May 2019 2  Useable
+38 17 Jan 2019 1 25 Feb 2019 Un-useable
+111 03 Nov 2019 1 28 Nov 2019 Un-useable
+66 10 Dec 2019 1  Useable
+36 29 May 2019 3  Useable
+73 07 Oct 2019 2  Useable
+119 02 Sep 2019 2 19 Sep 2019 Un-useable
+174 21 Mar 2019 2  Useable
+61 26 Dec 2019 2  Useable
+63 18 Nov 2019 4  Useable
+46 19 Jul 2019 5  Useable
+21 06 Mar 2019 4 07 Mar 2019 Un-useable
+129 28 Apr 2019 4 29 May 2019 Un-useable
+78 05 Sep 2019 4 01 Nov 2019 Un-useable
+57 23 Aug 2019 4  Useable
+40 25 Jul 2019 3  Useable
+11 04 Feb 2019 1  Useable
+39 22 Mar 2019 2  Useable
+154 26 Mar 2019 4  Useable
+13 03 Jan 2019 3  Useable
+64 18 Jun 2019 5  Useable
+46 19 Apr 2019 3 09 May 2019 Un-useable
+94 14 Nov 2019 3 13 Dec 2019 Un-useable
+71 12 Dec 2019 3  Useable
+33 12 Jul 2019 4 04 Sep 2019 Un-useable
+182 05 Nov 2019 4  Useable
+25 02 Jul 2019 1  Useable
+91 11 Jan 2019 1  Useable
+30 25 Mar 2019 1  Useable
+127 19 Apr 2019 5 18 Jun 2019 Un-useable
+123 06 Feb 2019 5  Useable
+151 07 Apr 2019 4  Useable
+136 23 Apr 2019 1  Useable
+69 29 Nov 2019 4 26 Jan 2020 Un-useable
+137 06 Jun 2019 4  Useable
+147 09 Aug 2019 1 04 Oct 2019 Un-useable
+151 15 May 2019 1 14 Jul 2019 Un-useable
+171 26 Dec 2019 1  Useable
+58 10 Aug 2019 3  Useable
+14 05 Dec 2019 5  Useable
+146 18 Jan 2019 4  Useable
+181 05 Jun 2019 2  Useable
+23 27 May 2019 5  Useable
+173 22 Jul 2019 1  Useable
+109 02 Aug 2019 4  Useable
+134 08 Nov 2019 3  Useable
+88 29 Mar 2019 1 08 May 2019 Un-useable
+145 04 Sep 2019 1 23 Oct 2019 Un-useable
+79 10 Jul 2019 1  Useable
+49 25 Mar 2019 2  Useable
+84 07 Aug 2019 3  Useable
+128 28 Jul 2019 4 21 Sep 2019 Un-useable
+190 22 Jan 2019 4  Useable
+70 27 Dec 2019 3  Useable
+126 23 Aug 2019 4 27 Aug 2019 Un-useable
+25 06 Nov 2019 4  Useable
+27 16 Oct 2019 4  Useable
+121 28 Sep 2019 4 25 Nov 2019 Un-useable
+191 20 Mar 2019 4 05 May 2019 Un-useable
+93 15 Jun 2019 4 19 Jul 2019 Un-useable
+129 10 Apr 2019 4  Useable
+174 18 Nov 2019 2  Useable
+116 28 Jul 2019 3 21 Sep 2019 Un-useable
+4 13 Apr 2019 3  Useable
+15 03 Dec 2019 3  Useable
+151 02 Oct 2019 4  Useable
+82 03 Oct 2019 1  Useable
+33 26 Nov 2019 2  Useable
+19 24 Jun 2019 4  Useable
+125 30 Jul 2019 3  Useable
+12 23 Nov 2019 2  Useable
+30 13 Dec 2019 5  Useable
+198 17 Feb 2019 5  Useable
+88 02 May 2019 2  Useable
+85 05 Feb 2019 4  Useable
+160 05 Apr 2019 2  Useable
+72 27 Jun 2019 3  Useable
+95 20 Aug 2019 2  Useable
+83 02 Mar 2019 4 27 Mar 2019 Un-useable
+130 15 Dec 2019 4 28 Jan 2020 Un-useable
+111 28 Nov 2019 4 24 Dec 2019 Un-useable
+33 29 Oct 2019 4 07 Nov 2019 Un-useable
+80 06 Oct 2019 4  Useable
+86 30 Sep 2019 5  Useable
+149 10 Nov 2019 4 03 Jan 2020 Un-useable
+13 16 Aug 2019 4  Useable
+177 19 Jul 2019 3  Useable
+61 19 Jan 2019 4 04 Mar 2019 Un-useable
+57 23 Feb 2019 4  Useable
+79 05 Jul 2019 5 29 Jul 2019 Un-useable
+127 19 Nov 2019 5  Useable
+53 07 Apr 2019 3  Useable
+193 09 Mar 2019 2  Useable
+26 31 Aug 2019 2 04 Sep 2019 Un-useable
+117 24 Feb 2019 2  Useable
+40 13 Oct 2019 3 27 Nov 2019 Un-useable
+171 14 Aug 2019 3  Useable
+21 23 Jun 2019 3 05 Jul 2019 Un-useable
+22 13 Apr 2019 3  Useable
+32 25 Nov 2019 2  Useable
+198 31 Jan 2019 3 27 Mar 2019 Un-useable
+56 25 Jan 2019 3  Useable
+103 02 Jan 2019 3  Useable
+151 08 Mar 2019 5 02 May 2019 Un-useable
+73 31 Dec 2019 5 21 Jan 2020 Un-useable
+137 14 Jul 2019 5  Useable
+87 09 Dec 2019 3  Useable
+5 15 Aug 2019 1  Useable
+140 12 Aug 2019 2  Useable
+101 30 May 2019 1  Useable
+9 12 Sep 2019 2  Useable
+112 03 May 2019 2 08 Jun 2019 Un-useable
+119 02 Mar 2019 2  Useable
+111 13 Aug 2019 3  Useable
+11 08 May 2019 1  Useable
+41 02 Apr 2019 2  Useable
+118 30 May 2019 2  Useable
+173 02 Apr 2019 5  Useable
+46 01 Dec 2019 1  Useable
+101 12 Aug 2019 4 07 Oct 2019 Un-useable
+166 06 Feb 2019 4  Useable
+15 07 Nov 2019 3  Useable
+32 26 Dec 2019 3 15 Jan 2020 Un-useable
+23 21 Mar 2019 3  Useable
+82 07 Sep 2019 1  Useable
+103 17 Jan 2019 1  Useable
+137 19 Apr 2019 2 15 May 2019 Un-useable
+98 05 Oct 2019 2 31 Oct 2019 Un-useable
+184 14 Aug 2019 2  Useable
+191 20 Oct 2019 5  Useable
+156 20 Aug 2019 2  Useable
+133 21 Nov 2019 1  Useable
+129 27 Jan 2019 2  Useable
+134 25 Aug 2019 3  Useable
+34 26 Apr 2019 2  Useable
+87 17 Dec 2019 5  Useable
+157 14 Jun 2019 4  Useable
+51 18 Mar 2019 5  Useable
+28 18 Aug 2019 1 10 Sep 2019 Un-useable
+7 21 Mar 2019 1 21 Apr 2019 Un-useable
+55 11 Dec 2019 1  Useable
+140 31 Dec 2019 3  Useable
+7 07 Oct 2019 4  Useable
+152 05 Dec 2019 3  Useable
+162 09 Aug 2019 5  Useable
+11 28 Nov 2019 2  Useable
+74 30 Oct 2019 1  Useable
+137 07 Apr 2019 2  Useable
+61 10 Jul 2019 3  Useable
+36 05 Apr 2019 5 22 Apr 2019 Un-useable
+49 12 Jan 2019 5  Useable
+200 04 Jul 2019 5  Useable
+172 19 Dec 2019 4  Useable
+142 11 Mar 2019 3 01 May 2019 Un-useable
+103 13 Feb 2019 3 05 Mar 2019 Un-useable
+151 23 Apr 2019 3  Useable
+100 18 May 2019 1 22 Jun 2019 Un-useable
+178 12 Oct 2019 1 15 Nov 2019 Un-useable
+148 14 Mar 2019 1  Useable
+41 24 Apr 2019 1  Useable
+64 31 Mar 2019 4  Useable
+70 25 Feb 2019 4  Useable
+184 24 May 2019 1 25 May 2019 Un-useable
+150 28 Sep 2019 1  Useable
+62 29 Jun 2019 4  Useable
+137 19 Mar 2019 5  Useable
+29 15 Dec 2019 5  Useable
+143 13 Aug 2019 1  Useable
+116 12 Mar 2019 5  Useable
+180 26 Mar 2019 2  Useable
+136 02 Sep 2019 2  Useable
+165 06 May 2019 3  Useable
+93 03 Jan 2019 3 27 Jan 2019 Un-useable
+123 23 Apr 2019 3 24 Apr 2019 Un-useable
+78 04 Apr 2019 3  Useable
+172 19 Aug 2019 5 06 Sep 2019 Un-useable
+172 19 Dec 2019 5  Useable
+135 09 Nov 2019 3  Useable
+171 05 Jul 2019 2  Useable
+151 06 May 2019 2  Useable
+33 29 Jul 2019 2  Useable
+117 05 Nov 2019 4  Useable
+105 01 Dec 2019 2  Useable
+153 16 Feb 2019 4  Useable
+23 26 Dec 2019 2  Useable
+45 05 Oct 2019 5 22 Nov 2019 Un-useable
+185 21 Mar 2019 5 06 Apr 2019 Un-useable
+185 08 Aug 2019 5  Useable
+93 13 Feb 2019 3  Useable
+79 06 Dec 2019 5 08 Dec 2019 Un-useable
+2 18 Feb 2019 5  Useable
+151 17 Feb 2019 3  Useable
+108 21 Jan 2019 4  Useable
+74 19 Jul 2019 4  Useable
+45 21 Feb 2019 1  Useable
+129 24 Dec 2019 3  Useable
+23 04 Jun 2019 4  Useable
+164 05 Oct 2019 1  Useable
+121 02 Jul 2019 1 25 Jul 2019 Un-useable
+139 28 Jul 2019 1 22 Sep 2019 Un-useable
+116 09 Feb 2019 1  Useable
+29 22 Aug 2019 2  Useable
+183 17 Jun 2019 2 06 Aug 2019 Un-useable
+37 12 Sep 2019 2  Useable
+161 04 Jun 2019 3 26 Jun 2019 Un-useable
+174 08 Oct 2019 3  Useable
+88 24 Mar 2019 1  Useable
+29 23 Jul 2019 3  Useable
+49 04 Apr 2019 4  Useable
+85 14 Dec 2019 1  Useable
+74 24 Mar 2019 5  Useable
+41 29 Nov 2019 3 21 Jan 2020 Un-useable
+24 14 Mar 2019 3  Useable
+118 27 Sep 2019 2  Useable
+130 25 May 2019 5 09 Jul 2019 Un-useable
+89 06 Jul 2019 5  Useable
+150 05 Nov 2019 2  Useable
+198 15 Jun 2019 3  Useable
+101 08 Jan 2019 1 28 Jan 2019 Un-useable
+109 01 Feb 2019 1 23 Mar 2019 Un-useable
+88 19 Aug 2019 1  Useable
+97 27 Oct 2019 2 14 Nov 2019 Un-useable
+54 25 Jul 2019 2 22 Aug 2019 Un-useable
+171 25 Nov 2019 2  Useable
+5 26 Feb 2019 4  Useable
+48 18 Sep 2019 2 11 Oct 2019 Un-useable
+49 27 Nov 2019 2 18 Jan 2020 Un-useable
+111 14 Mar 2019 2  Useable
+59 09 Oct 2019 4  Useable
+166 22 May 2019 4  Useable
+99 20 Jul 2019 5  Useable
+107 13 Sep 2019 3  Useable
+40 14 May 2019 5  Useable
+176 22 Apr 2019 1  Useable
+21 04 Aug 2019 2  Useable
+55 03 Aug 2019 4 03 Sep 2019 Un-useable
+78 06 Aug 2019 4  Useable
+139 11 Oct 2019 1  Useable
+24 23 Dec 2019 4  Useable
+41 02 Mar 2019 5  Useable
+31 29 Jun 2019 3  Useable
+184 10 Dec 2019 5  Useable
+142 05 Mar 2019 4  Useable
+43 12 Jul 2019 4  Useable
+200 16 Feb 2019 1  Useable
+55 16 Jul 2019 5  Useable
+2 02 Apr 2019 2  Useable
+164 08 Apr 2019 2  Useable
+161 22 Jan 2019 4 16 Feb 2019 Un-useable
+172 06 Jun 2019 4  Useable
+70 19 Feb 2019 4  Useable
+84 15 Feb 2019 5  Useable
+89 18 Jul 2019 5  Useable
+108 08 Jul 2019 4  Useable
+48 15 Nov 2019 2  Useable
+115 11 Nov 2019 5  Useable
+4 07 Apr 2019 4  Useable
+3 29 Jun 2019 1  Useable
+30 15 Apr 2019 1 24 Apr 2019 Un-useable
+117 05 Jul 2019 1 10 Aug 2019 Un-useable
+186 22 Dec 2019 1 12 Feb 2020 Un-useable
+158 07 Mar 2019 1  Useable
+1 21 Jan 2019 2  Useable
+171 06 Apr 2019 2  Useable
+130 14 Sep 2019 3  Useable
+58 21 Oct 2019 4  Useable
+115 03 Apr 2019 2  Useable
+129 30 May 2019 5 27 Jun 2019 Un-useable
+197 21 Nov 2019 5 28 Dec 2019 Un-useable
+140 30 Jun 2019 5  Useable
+161 02 Nov 2019 3 07 Dec 2019 Un-useable
+91 06 Jul 2019 3  Useable
+48 16 Jan 2019 4  Useable
+126 23 Aug 2019 5 10 Sep 2019 Un-useable
+136 26 Feb 2019 5  Useable
+16 21 Jun 2019 2  Useable
+16 26 Dec 2019 3 29 Jan 2020 Un-useable
+197 20 Dec 2019 3  Useable
+27 14 Mar 2019 5  Useable
+73 19 Nov 2019 2 17 Dec 2019 Un-useable
+124 08 Jul 2019 2  Useable
+1 01 Mar 2019 4  Useable
+25 27 Sep 2019 2  Useable
+129 11 Feb 2019 1  Useable
+102 05 Jul 2019 3  Useable
+88 22 Aug 2019 1 21 Oct 2019 Un-useable
+130 26 Mar 2019 1 03 Apr 2019 Un-useable
+147 17 Jul 2019 1 03 Sep 2019 Un-useable
+134 02 Dec 2019 1  Useable
+167 24 Sep 2019 5  Useable
+57 07 Jun 2019 1  Useable
+184 12 Sep 2019 3 10 Nov 2019 Un-useable
+131 17 Feb 2019 3  Useable
+130 05 Jul 2019 4  Useable
+140 14 May 2019 1  Useable
+88 08 Oct 2019 2 15 Nov 2019 Un-useable
+42 20 Jul 2019 2 28 Aug 2019 Un-useable
+59 07 Nov 2019 2 01 Jan 2020 Un-useable
+17 08 Mar 2019 2  Useable
+24 11 Nov 2019 3  Useable
+92 04 Sep 2019 5  Useable
+139 10 Jan 2019 1 22 Jan 2019 Un-useable
+8 18 Nov 2019 1  Useable
+173 06 Mar 2019 1  Useable
+25 01 Nov 2019 2 30 Nov 2019 Un-useable
+32 06 Jul 2019 2  Useable
+112 16 Sep 2019 2  Useable
+26 13 Dec 2019 2  Useable
+146 02 Jul 2019 5  Useable
+160 18 Dec 2019 5  Useable
+59 04 Nov 2019 3  Useable
+179 29 Jul 2019 4  Useable
+188 18 Nov 2019 4 03 Jan 2020 Un-useable
+133 24 Jan 2019 4 25 Mar 2019 Un-useable
+184 25 Jan 2019 4  Useable
+75 30 Jun 2019 1  Useable
+126 29 Sep 2019 4  Useable
+37 30 Jul 2019 5  Useable
+138 30 May 2019 3  Useable
+154 15 May 2019 5  Useable
+183 26 Nov 2019 2  Useable
+186 11 Feb 2019 3 06 Mar 2019 Un-useable
+17 10 Mar 2019 3  Useable
+116 10 Sep 2019 5  Useable
+187 03 Feb 2019 4 28 Mar 2019 Un-useable
+188 08 May 2019 4  Useable
+59 15 Aug 2019 1  Useable
+6 01 Aug 2019 2  Useable
+130 27 Nov 2019 2  Useable
+187 06 Oct 2019 1 11 Nov 2019 Un-useable
+63 08 Jul 2019 1 28 Jul 2019 Un-useable
+85 07 Oct 2019 1 14 Oct 2019 Un-useable
+198 20 Jul 2019 1 14 Aug 2019 Un-useable
+100 22 Sep 2019 1  Useable
+109 08 Sep 2019 3  Useable
+130 10 Nov 2019 1 03 Jan 2020 Un-useable
+77 10 Jan 2019 1  Useable
+153 14 Jan 2019 4  Useable
+77 08 Sep 2019 4  Useable
+58 29 Apr 2019 5  Useable
+101 10 Apr 2019 2  Useable
+80 02 Sep 2019 5  Useable
+188 24 Apr 2019 5  Useable
+167 16 May 2019 1  Useable
+20 24 Feb 2019 2 21 Apr 2019 Un-useable
+99 10 May 2019 2  Useable
+110 24 Apr 2019 2 05 May 2019 Un-useable
+200 15 Mar 2019 2  Useable
+78 14 Aug 2019 2 28 Aug 2019 Un-useable
+17 25 Apr 2019 2  Useable
+34 26 Nov 2019 2  Useable
+198 18 Jun 2019 5  Useable
+106 19 Sep 2019 1  Useable
+146 03 Jun 2019 3  Useable
+49 24 Dec 2019 1 15 Feb 2020 Un-useable
+85 04 Mar 2019 1  Useable
+193 29 Nov 2019 4 26 Jan 2020 Un-useable
+169 22 Aug 2019 4 07 Oct 2019 Un-useable
+151 17 Sep 2019 4 13 Oct 2019 Un-useable
+157 08 Dec 2019 4  Useable
+198 05 Apr 2019 2 03 Jun 2019 Un-useable
+119 22 Oct 2019 2 04 Dec 2019 Un-useable
+2 03 Oct 2019 2  Useable
+187 11 May 2019 3 22 Jun 2019 Un-useable
+71 19 Nov 2019 3  Useable
+131 02 Mar 2019 5  Useable
+14 18 May 2019 5  Useable
+67 21 Jun 2019 2 30 Jun 2019 Un-useable
+59 24 Sep 2019 2 22 Nov 2019 Un-useable
+79 29 Oct 2019 2 15 Nov 2019 Un-useable
+66 12 May 2019 2 29 Jun 2019 Un-useable
+95 19 Jan 2019 2  Useable
+152 20 Jan 2019 4  Useable
+85 12 Aug 2019 1  Useable
+145 01 Oct 2019 3  Useable
+54 29 Jul 2019 4 01 Aug 2019 Un-useable
+87 20 Nov 2019 4  Useable
+65 31 Mar 2019 4  Useable
+8 23 Nov 2019 1 13 Jan 2020 Un-useable
+11 07 May 2019 1  Useable
+153 18 Dec 2019 3 11 Jan 2020 Un-useable
+68 15 Jun 2019 3 04 Aug 2019 Un-useable
+10 17 Jun 2019 3  Useable
+179 14 Oct 2019 5  Useable
+167 27 Dec 2019 4  Useable
+110 09 Jan 2019 3 18 Feb 2019 Un-useable
+66 16 May 2019 3  Useable
+9 10 Dec 2019 3  Useable
+184 11 Jan 2019 2  Useable
+154 05 May 2019 4 23 May 2019 Un-useable
+35 16 Oct 2019 4  Useable
+165 20 Jul 2019 3  Useable
+27 28 Dec 2019 3  Useable
+79 07 Jan 2019 2 14 Jan 2019 Un-useable
+49 27 Feb 2019 2  Useable
+122 25 Jan 2019 1  Useable
+50 08 Dec 2019 3  Useable
+145 24 Mar 2019 4  Useable
+35 30 Aug 2019 2  Useable
+177 24 Sep 2019 5  Useable
+106 30 Jan 2019 5  Useable
+152 20 Jan 2019 5 20 Feb 2019 Un-useable
+116 29 Nov 2019 5  Useable
+104 25 Oct 2019 2  Useable
+86 04 Oct 2019 3  Useable
+155 27 Sep 2019 3  Useable
+37 07 Jun 2019 4  Useable
+83 09 Jan 2019 5  Useable
+149 20 Dec 2019 4  Useable
+51 15 Feb 2019 3  Useable
+132 15 Aug 2019 5 12 Sep 2019 Un-useable
+10 20 Apr 2019 5  Useable
+139 15 Feb 2019 2  Useable
+163 11 Oct 2019 1 15 Nov 2019 Un-useable
+35 06 Dec 2019 1  Useable
+115 27 Dec 2019 3  Useable
+154 02 May 2019 1 09 Jun 2019 Un-useable
+36 27 Dec 2019 1 14 Jan 2020 Un-useable
+112 20 Jul 2019 1  Useable
+126 18 Jun 2019 4 06 Aug 2019 Un-useable
+81 20 Sep 2019 4  Useable
+57 12 Aug 2019 4 04 Oct 2019 Un-useable
+146 04 Nov 2019 4 23 Nov 2019 Un-useable
+2 23 Mar 2019 4  Useable
+15 29 Nov 2019 5  Useable
+113 20 May 2019 3  Useable
+106 12 Jul 2019 3  Useable
+18 05 Apr 2019 1  Useable
+34 23 Nov 2019 1  Useable
+193 08 Feb 2019 1  Useable
+52 09 Mar 2019 5 22 Apr 2019 Un-useable
+47 05 May 2019 5  Useable
+175 09 May 2019 5  Useable
+135 20 Sep 2019 2  Useable
+98 09 Mar 2019 3 10 Mar 2019 Un-useable
+193 30 Apr 2019 3 09 Jun 2019 Un-useable
+105 09 Feb 2019 3  Useable
+175 22 Jan 2019 5 27 Feb 2019 Un-useable
+49 27 Nov 2019 5  Useable
+30 15 Jul 2019 3 13 Sep 2019 Un-useable
+71 15 Jan 2019 3  Useable
+137 18 Sep 2019 5  Useable
+44 12 Apr 2019 4 09 Jun 2019 Un-useable
+6 17 Apr 2019 4  Useable
+82 03 Aug 2019 1  Useable
+72 16 Oct 2019 2 15 Dec 2019 Un-useable
+166 30 Oct 2019 2  Useable
+26 29 Jan 2019 3 26 Mar 2019 Un-useable
+136 22 Sep 2019 3  Useable
+136 10 Nov 2019 1 16 Dec 2019 Un-useable
+102 01 Aug 2019 1  Useable
+152 29 Dec 2019 2  Useable
+176 11 Jan 2019 2  Useable
+66 11 Dec 2019 3  Useable
+71 07 Oct 2019 5  Useable
+58 14 Sep 2019 5  Useable
+131 18 Dec 2019 3  Useable
+7 20 Jan 2019 2 16 Feb 2019 Un-useable
+55 16 Jul 2019 2 09 Sep 2019 Un-useable
+31 19 Feb 2019 2 27 Feb 2019 Un-useable
+119 23 Nov 2019 2 23 Dec 2019 Un-useable
+40 01 May 2019 2  Useable
+58 04 Feb 2019 1  Useable
+83 22 Aug 2019 1 28 Aug 2019 Un-useable
+27 11 Oct 2019 1  Useable
+183 14 Jan 2019 4 06 Mar 2019 Un-useable
+162 17 Sep 2019 4  Useable
+167 19 Jan 2019 5  Useable
+41 03 Jul 2019 2 26 Jul 2019 Un-useable
+176 10 Dec 2019 2  Useable
+54 24 Feb 2019 5  Useable
+180 23 Mar 2019 1 26 Mar 2019 Un-useable
+124 11 Jul 2019 1 26 Jul 2019 Un-useable
+71 28 Oct 2019 1  Useable
+65 21 May 2019 2  Useable
+145 10 May 2019 1  Useable
+78 23 Mar 2019 3  Useable
+80 27 Jan 2019 1  Useable
+21 17 Aug 2019 1  Useable
+195 28 Jan 2019 1  Useable
+85 17 Sep 2019 2  Useable
+186 12 Aug 2019 5  Useable
+103 30 Sep 2019 3 13 Oct 2019 Un-useable
+186 28 Nov 2019 3 11 Jan 2020 Un-useable
+177 12 Nov 2019 3  Useable
+177 13 Dec 2019 2  Useable
+10 02 Mar 2019 2  Useable
+150 19 Sep 2019 4 20 Sep 2019 Un-useable
+75 09 Jun 2019 4  Useable
+95 23 Apr 2019 4 11 May 2019 Un-useable
+127 16 Apr 2019 4  Useable
+86 25 Jul 2019 1 22 Aug 2019 Un-useable
+40 23 Jul 2019 1  Useable
+196 19 Jan 2019 2 13 Feb 2019 Un-useable
+97 28 Apr 2019 2  Useable
+180 09 Jan 2019 4 20 Jan 2019 Un-useable
+119 18 Oct 2019 4  Useable
+191 23 Oct 2019 4  Useable
+118 13 Aug 2019 4  Useable
+117 27 Apr 2019 4  Useable
+64 07 Oct 2019 2 20 Nov 2019 Un-useable
+46 06 Oct 2019 2 01 Dec 2019 Un-useable
+28 26 Feb 2019 2  Useable
+173 31 Mar 2019 4 15 May 2019 Un-useable
+190 05 Mar 2019 4 29 Apr 2019 Un-useable
+168 05 Jan 2019 4 03 Feb 2019 Un-useable
+152 21 May 2019 4  Useable
+18 27 Jun 2019 3  Useable
+197 23 Nov 2019 4  Useable
+62 06 Feb 2019 4  Useable
+68 17 Feb 2019 4  Useable
+124 19 Jul 2019 5  Useable
+187 03 Oct 2019 1  Useable
+66 16 Jul 2019 1 17 Jul 2019 Un-useable
+24 23 Oct 2019 1  Useable
+7 27 Mar 2019 5  Useable
+39 07 Oct 2019 5  Useable
+3 17 Apr 2019 4 11 Jun 2019 Un-useable
+165 21 Feb 2019 4 27 Feb 2019 Un-useable
+115 02 Apr 2019 4  Useable
+10 14 Mar 2019 1 03 Apr 2019 Un-useable
+49 26 Mar 2019 1 02 Apr 2019 Un-useable
+77 18 Jul 2019 1  Useable
+5 01 Feb 2019 3 17 Feb 2019 Un-useable
+143 03 Feb 2019 3  Useable
+110 20 Jan 2019 4  Useable
+172 30 Mar 2019 5  Useable
+168 17 Sep 2019 4 22 Sep 2019 Un-useable
+121 03 Nov 2019 4  Useable
+159 20 Mar 2019 1  Useable
+45 11 Mar 2019 2  Useable
+139 30 Nov 2019 4  Useable
+95 17 Feb 2019 2  Useable
+162 24 Jan 2019 2 24 Feb 2019 Un-useable
+122 09 May 2019 2 16 May 2019 Un-useable
+198 24 Sep 2019 2 16 Nov 2019 Un-useable
+68 19 Nov 2019 2  Useable
+98 27 Sep 2019 2 08 Oct 2019 Un-useable
+115 12 Jun 2019 2 28 Jul 2019 Un-useable
+65 25 Mar 2019 2  Useable
+34 22 Aug 2019 5 02 Sep 2019 Un-useable
+33 06 Sep 2019 5  Useable
+171 27 Jul 2019 3 20 Sep 2019 Un-useable
+82 01 Jul 2019 3 29 Aug 2019 Un-useable
+103 29 Oct 2019 3  Useable
+69 16 Oct 2019 2  Useable
+109 12 Mar 2019 2 06 May 2019 Un-useable
+122 23 Feb 2019 2 13 Apr 2019 Un-useable
+134 21 Dec 2019 2  Useable
+197 07 Mar 2019 5  Useable
+198 21 Mar 2019 1  Useable
+53 24 Apr 2019 5 30 May 2019 Un-useable
+96 06 Dec 2019 5  Useable
+135 18 May 2019 3  Useable
+145 23 Jul 2019 4  Useable
+22 26 May 2019 3 15 Jun 2019 Un-useable
+42 09 Aug 2019 3  Useable
+28 05 Dec 2019 1  Useable
+132 10 Nov 2019 2 23 Nov 2019 Un-useable
+3 12 Jun 2019 2  Useable
+188 29 Oct 2019 3 27 Dec 2019 Un-useable
+28 19 Jul 2019 3  Useable
+172 07 Jan 2019 3 08 Feb 2019 Un-useable
+183 24 Feb 2019 3  Useable
+93 01 Aug 2019 3  Useable
+136 10 Sep 2019 3  Useable
+44 07 Jun 2019 4  Useable
+165 22 Sep 2019 5  Useable
+59 15 Oct 2019 2 22 Nov 2019 Un-useable
+194 27 Jul 2019 2 10 Aug 2019 Un-useable
+158 05 Jan 2019 2  Useable
+140 06 Oct 2019 4  Useable
+93 04 Nov 2019 2  Useable
+85 10 Apr 2019 4  Useable
+126 18 Jan 2019 3  Useable
+177 15 Oct 2019 3  Useable
+73 08 Aug 2019 1  Useable
+152 17 Sep 2019 1  Useable
+97 06 Mar 2019 5  Useable
+45 03 Dec 2019 5  Useable
+59 24 Mar 2019 4  Useable
+62 27 Jan 2019 3  Useable
+133 24 Apr 2019 1  Useable
+89 18 Oct 2019 5  Useable
+178 27 Jun 2019 1  Useable
+40 30 Apr 2019 4  Useable
+164 20 Aug 2019 3 25 Aug 2019 Un-useable
+43 23 Nov 2019 3  Useable
+179 30 Sep 2019 5  Useable
+5 06 Jan 2019 1  Useable
+51 09 Nov 2019 2 30 Dec 2019 Un-useable
+7 19 Jul 2019 2 15 Aug 2019 Un-useable
+74 16 Aug 2019 2  Useable
+194 09 Jun 2019 2 17 Jul 2019 Un-useable
+65 06 Dec 2019 2 19 Dec 2019 Un-useable
+5 23 Jan 2019 2  Useable
+22 18 Jul 2019 4  Useable
+177 22 Dec 2019 3  Useable
+95 03 Mar 2019 1 24 Apr 2019 Un-useable
+131 18 Jan 2019 1  Useable
+173 13 May 2019 5  Useable
+34 16 Feb 2019 4  Useable
+165 25 Nov 2019 1  Useable
+21 16 Nov 2019 1  Useable
+70 15 Mar 2019 1 01 May 2019 Un-useable
+48 08 May 2019 1  Useable
+111 15 Apr 2019 3  Useable
+6 01 Sep 2019 1  Useable
+2 06 Dec 2019 5  Useable
+193 25 Dec 2019 4 14 Jan 2020 Un-useable
+49 10 Jan 2019 4  Useable
+143 10 Dec 2019 4 20 Jan 2020 Un-useable
+195 22 Oct 2019 4  Useable
+181 11 Jan 2019 1  Useable
+104 14 Apr 2019 5  Useable
+149 07 Jun 2019 3 15 Jul 2019 Un-useable
+92 12 Mar 2019 3  Useable
+170 28 Feb 2019 4  Useable
+103 16 Mar 2019 1 02 May 2019 Un-useable
+198 26 Dec 2019 1 29 Dec 2019 Un-useable
+2 18 Jul 2019 1  Useable
+76 02 Oct 2019 4  Useable
+133 01 Apr 2019 4  Useable
+56 17 Jan 2019 3 11 Feb 2019 Un-useable
+38 12 Jan 2019 3  Useable
+61 30 Aug 2019 4  Useable
+29 24 Jun 2019 2 17 Jul 2019 Un-useable
+157 23 Apr 2019 2  Useable
+103 05 Mar 2019 3 28 Mar 2019 Un-useable
+88 03 May 2019 3 21 May 2019 Un-useable
+119 24 Oct 2019 3 17 Dec 2019 Un-useable
+16 21 Mar 2019 3 30 Mar 2019 Un-useable
+44 06 Jun 2019 3  Useable
+120 09 Feb 2019 3 31 Mar 2019 Un-useable
+195 15 Nov 2019 3  Useable
+54 22 Feb 2019 5  Useable
+18 15 Feb 2019 2  Useable
+11 21 Nov 2019 2 06 Jan 2020 Un-useable
+38 09 Dec 2019 2  Useable
+136 20 May 2019 2 13 Jul 2019 Un-useable
+93 29 Jul 2019 2  Useable
+156 26 Jun 2019 3  Useable
+117 29 Mar 2019 4  Useable
+8 20 Aug 2019 1  Useable
+69 05 Nov 2019 4  Useable
+81 13 Jun 2019 4  Useable
+170 28 Jun 2019 2  Useable
+28 15 May 2019 1  Useable
+190 07 Feb 2019 4 09 Mar 2019 Un-useable
+116 12 Nov 2019 4 22 Dec 2019 Un-useable
+197 21 Jan 2019 4  Useable
+132 12 Aug 2019 3  Useable
+12 12 Mar 2019 4  Useable
+169 11 Mar 2019 5  Useable
+17 30 Mar 2019 1  Useable
+80 18 Apr 2019 5  Useable
+123 14 Oct 2019 5 21 Nov 2019 Un-useable
+192 21 Mar 2019 5  Useable
+52 29 Apr 2019 2  Useable
+27 11 Sep 2019 4 07 Oct 2019 Un-useable
+158 10 Dec 2019 4  Useable
+94 06 Sep 2019 5  Useable
+160 13 Sep 2019 5  Useable
+68 05 Sep 2019 1 14 Oct 2019 Un-useable
+191 13 Sep 2019 1  Useable
+168 02 Jun 2019 3  Useable
+14 03 Dec 2019 5  Useable
+51 08 Sep 2019 1  Useable
+154 26 Apr 2019 2  Useable
+149 24 Jun 2019 5  Useable
+137 22 May 2019 5  Useable
+101 26 May 2019 1  Useable
+148 10 Jun 2019 5 26 Jun 2019 Un-useable
+17 21 May 2019 5  Useable
+84 21 Oct 2019 1  Useable
+77 14 Mar 2019 2 23 Mar 2019 Un-useable
+82 23 Aug 2019 2 23 Sep 2019 Un-useable
+111 10 Feb 2019 2 16 Feb 2019 Un-useable
+169 13 Nov 2019 2  Useable
+148 02 Jan 2019 1  Useable
+69 23 Jul 2019 2  Useable
+129 06 Aug 2019 2  Useable
+47 14 Jun 2019 2 04 Jul 2019 Un-useable
+140 04 Mar 2019 2  Useable
+64 26 Feb 2019 5 19 Apr 2019 Un-useable
+116 16 Apr 2019 5  Useable
+184 05 Nov 2019 1 26 Nov 2019 Un-useable
+185 02 Jan 2019 1 05 Jan 2019 Un-useable
+156 21 Mar 2019 1  Useable
+119 23 Sep 2019 4 28 Oct 2019 Un-useable
+124 02 Apr 2019 4  Useable
+67 21 Jun 2019 2  Useable
+170 16 Feb 2019 1  Useable
+200 26 Jul 2019 4  Useable
+171 25 Aug 2019 5  Useable
+74 17 May 2019 4 12 Jun 2019 Un-useable
+122 23 May 2019 4 12 Jul 2019 Un-useable
+82 03 Sep 2019 4  Useable
+79 14 Feb 2019 4  Useable
+36 17 Nov 2019 3  Useable
+156 19 Aug 2019 2  Useable
+155 17 Jan 2019 3  Useable
+49 10 Oct 2019 2  Useable
+73 15 Jun 2019 1  Useable
+160 23 Nov 2019 5 30 Nov 2019 Un-useable
+89 26 Jun 2019 5  Useable
+88 20 Mar 2019 4 18 Apr 2019 Un-useable
+68 09 Oct 2019 4  Useable
+19 10 Sep 2019 1 15 Oct 2019 Un-useable
+173 19 Mar 2019 1 06 May 2019 Un-useable
+148 24 Nov 2019 1  Useable
+168 27 May 2019 4  Useable
+14 07 Sep 2019 5 02 Nov 2019 Un-useable
+94 29 Aug 2019 5 01 Oct 2019 Un-useable
+186 28 Apr 2019 5  Useable
+39 25 May 2019 5  Useable
+181 25 Sep 2019 4 04 Oct 2019 Un-useable
+186 12 Jun 2019 4 10 Aug 2019 Un-useable
+27 26 Nov 2019 4  Useable
+100 11 Apr 2019 5 23 May 2019 Un-useable
+74 04 Aug 2019 5  Useable
+165 03 Oct 2019 4 27 Nov 2019 Un-useable
+81 25 Jun 2019 4 20 Aug 2019 Un-useable
+168 28 Oct 2019 4  Useable
+73 14 Aug 2019 4 07 Oct 2019 Un-useable
+45 14 Oct 2019 4  Useable
+25 17 Aug 2019 4 22 Aug 2019 Un-useable
+31 28 Dec 2019 4  Useable
+130 23 Oct 2019 5 07 Nov 2019 Un-useable
+33 25 Feb 2019 5  Useable
+6 27 May 2019 5  Useable
+38 14 Sep 2019 5 07 Oct 2019 Un-useable
+103 08 Jan 2019 5 08 Mar 2019 Un-useable
+37 27 Nov 2019 5 29 Dec 2019 Un-useable
+1 09 Aug 2019 5 31 Aug 2019 Un-useable
+167 03 Oct 2019 5 03 Nov 2019 Un-useable
+108 19 Sep 2019 5 04 Oct 2019 Un-useable
+111 28 Apr 2019 5  Useable
+166 13 Jul 2019 4  Useable
+57 24 Apr 2019 5 25 Apr 2019 Un-useable
+18 16 Mar 2019 5  Useable
+91 05 Mar 2019 1 22 Mar 2019 Un-useable
+161 26 Jan 2019 1 25 Feb 2019 Un-useable
+44 03 Oct 2019 1  Useable
+29 05 Oct 2019 5  Useable
+127 29 Nov 2019 4  Useable
+108 22 Oct 2019 3  Useable
+28 10 Mar 2019 4 02 May 2019 Un-useable
+48 16 May 2019 4  Useable
+137 05 Dec 2019 4  Useable
+133 02 Mar 2019 2  Useable
+86 19 Jun 2019 5  Useable
+185 26 Oct 2019 1 14 Nov 2019 Un-useable
+111 15 Jan 2019 1  Useable
+178 16 Sep 2019 4  Useable
+10 27 Feb 2019 1 14 Mar 2019 Un-useable
+30 13 Dec 2019 1  Useable
+41 24 Jul 2019 4  Useable
+6 25 Nov 2019 4  Useable
+40 24 Mar 2019 2  Useable
+75 01 Sep 2019 4 06 Sep 2019 Un-useable
+139 24 Jun 2019 4 22 Jul 2019 Un-useable
+69 26 Feb 2019 4 20 Apr 2019 Un-useable
+20 23 Jan 2019 4 13 Mar 2019 Un-useable
+132 29 Mar 2019 4  Useable
+176 04 Jul 2019 1 30 Jul 2019 Un-useable
+90 03 May 2019 1 08 May 2019 Un-useable
+55 30 Jan 2019 1 10 Mar 2019 Un-useable
+59 17 Oct 2019 1  Useable
+47 08 Feb 2019 1  Useable
+163 16 Jun 2019 1  Useable
+117 22 Apr 2019 3  Useable
+108 07 Oct 2019 1  Useable
+194 17 Feb 2019 1  Useable
+127 01 Jul 2019 1 30 Aug 2019 Un-useable
+23 03 Apr 2019 1  Useable
+188 05 Jun 2019 1  Useable
+89 25 Sep 2019 5  Useable
+190 03 Nov 2019 2  Useable
+92 15 Jul 2019 4  Useable
+124 21 Jun 2019 1 15 Jul 2019 Un-useable
+131 27 Aug 2019 1  Useable
+105 19 Nov 2019 1 23 Nov 2019 Un-useable
+144 09 Jan 2019 1  Useable
+169 19 Mar 2019 3  Useable
+63 28 Jun 2019 4  Useable
+123 30 May 2019 5  Useable
+78 30 Jun 2019 5  Useable
+5 08 Mar 2019 4  Useable
+77 16 Sep 2019 3  Useable
+169 27 Oct 2019 5  Useable
+63 05 Jan 2019 4  Useable
+140 30 Sep 2019 2  Useable
+187 24 Feb 2019 1  Useable
+39 03 Nov 2019 5  Useable
+49 17 Mar 2019 3  Useable
+69 09 Mar 2019 5  Useable
+5 08 Sep 2019 2 16 Sep 2019 Un-useable
+83 22 Jun 2019 2 28 Jun 2019 Un-useable
+83 23 Mar 2019 2  Useable
+40 14 May 2019 3 04 Jul 2019 Un-useable
+54 02 Apr 2019 3  Useable
+126 23 Aug 2019 1 05 Oct 2019 Un-useable
+40 05 Nov 2019 1 02 Dec 2019 Un-useable
+66 09 Apr 2019 1  Useable
+183 17 May 2019 2  Useable
+71 03 Jul 2019 1 16 Jul 2019 Un-useable
+107 29 Oct 2019 1  Useable
+81 24 Aug 2019 5  Useable
+138 18 Oct 2019 5  Useable
+155 20 Mar 2019 4  Useable
+34 15 Jun 2019 4 16 Jun 2019 Un-useable
+105 19 Aug 2019 4  Useable
+87 28 Jun 2019 1  Useable
+157 23 Jun 2019 5  Useable
+58 17 Jun 2019 2  Useable
+162 06 Oct 2019 0 24 Nov 2019 Un-useable

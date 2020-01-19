@@ -1,13 +1,14 @@
 #pragma once
+#include "Condition.h"
 
 class Link
 {
 	friend class List;
 
 private:
-	int X;
+	Condition X;
 	Link* Next;
 
 public:
-	Link(int);
+	Link(Condition c);
 };

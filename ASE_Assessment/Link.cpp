@@ -2,8 +2,9 @@
 
 #include "Link.h"
 
-Link::Link(int px)
+Link::Link(Condition c)
 {
-	X = px;
+	X = c;
 	Next = 0;
 }
+

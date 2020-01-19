@@ -1,7 +1,10 @@
 //
 
 #include<iostream>
+#include<fstream>
 #include "List.h"
+#include "Condition.h"
+#include <ctime>
 
 using namespace std;
 
@@ -10,12 +13,13 @@ List::List()
 	cout << "Constructor called: empty list" << endl;
 	// 'head' points to 0 initially and when the list is empty.  
 	// Otherwise 'head' points to most recently added object
+	count = 0;
 	head = 0;
 }
 
-int List::add(int x)
+int List::add(Condition x)
 {
-	cout << "Adding " << x << endl;
+	//cout << "Adding " << x << endl;
 	// pointer 'temp' used to instantiate objects to add to list 
 	Link* temp;
 	// memory allocated and the object is given a value
@@ -29,6 +33,7 @@ int List::add(int x)
 	temp->Next = head;
 	// 'head' is re-directed to point to the last created object
 	head = temp;
+	count += 1;
 	return 1;
 }
 
@@ -46,8 +51,51 @@ void List::display()
 	}
 }
 
+void List::saveToFile() 
+{
+	Link* temp;
+	string input;
+	cout << "Input file name" << endl;
+	cin >> input;
+	for (temp = head; temp != 0; temp = temp->Next) 
+	{
+		ofstream myfile;
+		myfile.open(input, ios_base::app);
+		if (myfile.is_open()) 
+		{
+			myfile << temp->X << endl;
+		}
+		else 
+		{
+			cout << "Error opening file" << endl;
+			break;
+		}
+		myfile.close();
+	}
+	cout << "Wrote to file succesfully" << endl;
+}
 
-int List::remove(int value)
+int List::searchList(int x) 
+{
+	Link* current;
+	clock_t start, finish;
+	start = clock();
+	for (current = head; current->Next != 0; current = current->Next) 
+	{
+		if (current->X.num == x) 
+		{
+			cout << "Found matching car, details are as follows " << current->X << endl;
+			finish = clock();
+			double duration = double(finish - start)/CLOCKS_PER_SEC;
+			cout << "Time to perform search was " << duration <<" seconds"<< endl;
+			return 1;
+		}
+	}
+	cout << "Search failed" << endl;
+	return 0;
+}
+
+int List::remove(Condition value)
 {
 	// CODE FOR REMOVE FUNCTION: PASS value AS A PARAMETER
 	// This function attempts to remove the first object containing ‘value’
@@ -65,7 +113,8 @@ int List::remove(int value)
 		temp = head;		// point to one to remove (i.e. first)
 		head = head->Next;	// point head second object 
 		cout << "Deleting object containing " << temp->X << endl;
-		delete temp;		// free the memory
+		delete temp;	// free the memory
+		count -= 1;
 		return 1;
 	}
 
@@ -81,6 +130,7 @@ int List::remove(int value)
 			current->Next = temp->Next; // make link to one after 
 			cout << "Deleting object containing " << temp->X << endl;
 			delete temp;			    // free the memory
+			count -= 1;
 			return 1;
 		}
 	}
@@ -98,6 +148,7 @@ void List::clear()
 		temp = head;
 		head = head->Next;
 		cout << "Deleting object containing " << temp->X << endl;
+		count -= 1;
 		delete temp;
 	}
 }

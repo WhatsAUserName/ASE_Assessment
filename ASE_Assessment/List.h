@@ -6,12 +6,15 @@ class List
 {
 private:
 	Link * head;
+	int count;
 public:
 	List();
 	~List();
-	int add(int x);
+	int add(Condition x);
 	void display();
-	int remove(int value);
+	void saveToFile();
+	int searchList(int x);
+	int remove(Condition value);
 	void clear();
 
 };
